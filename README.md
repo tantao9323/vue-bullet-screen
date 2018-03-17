@@ -9,10 +9,10 @@
 ### Direct include
         <script src="/dist/vue-bullet-screen.js"></script>
 ## Usage
-Template
+### Template
 >
         <vue-bullet-screen v-bind:bulletList="bulletList" ref="vueBulletScreen"></vue-bullet-screen>
-Script
+### Script
 >
         export default {
             name: 'app',
