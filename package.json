@@ -1,7 +1,7 @@
 {
   "name": "vue-bullet-screen",
   "description": "A Vue.js bullet screen plugin",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "tantao9323 <tantao9323@hotmail.com>",
   "license": "MIT",
   "private": false,
